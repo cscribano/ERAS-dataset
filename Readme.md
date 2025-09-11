@@ -1,6 +1,6 @@
 # 🌍 Emilia-Romagna Agri Seg (ERAS)
 <p align="center" width="100%">
-    <img width="55%" src="./images/logo.png"> 
+    <img width="45%" src="./images/logo.png"> 
 </p>
 
 A regional dataset for crop segmentation. This dataset is the complement for *"Segment Anything for Satellite Imagery: A Strong Baseline and a Regional Dataset for Automatic Field Delineation"*, accepted for publication at ICIAP 2025.
